@@ -15,4 +15,4 @@ ___
 ___
 
 Thanks for tuning in! If you have any questions or 
-comments,please don't hesitate to file an issue.
+comments, please don't hesitate to file an issue.
