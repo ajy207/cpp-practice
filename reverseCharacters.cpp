@@ -11,6 +11,8 @@ bool reverseString(char* str);
 
 /* Initializes a cstring or array of characters, then calls the
 *  reverseString() function to attempt to reverse the cstring.
+*  Return codes: 0; program executed successfully
+*                1; program executed unsuccessfully
 */
 int main()
 {
@@ -29,6 +31,7 @@ int main()
     else
     {
         std::cout << "Error: empty string. No string to reverse." << std::endl; //Prints error if empty cstring
+        return 1; //Returns error code 1 if the string reversal was unsuccessful
     }
     
     return 0; //Returns 0 if program has executed successfully
