@@ -1,11 +1,18 @@
-Welcome! 
+### Welcome!
 
-This is my first program written in C++. findMaxNumber.cpp uses a function
-to compute then return the maximum value in an array of integers. 
-Then, main() prints the maximum value found within the array.
+This repo houses the practice programs I have written in C++ to begin
+my journey into the vast universe of what this language can accomplish.
 
-That's it!
+___
 
-This was written on 2025-01-25.
+**Table of Contents**
 
-Thanks for tuning in.
+1. [findMaxNumber.cpp](https://github.com/ajy207/cpp-practice/blob/main/findMaxNumber.cpp)
+     - This program uses a function to compute the maximum value in an array of integers, 
+     then returns the maximum value to main(). Nothing special.
+     - Last updated: 2025-01-25
+
+___
+
+Thanks for tuning in! If you have any questions or 
+comments,please don't hesitate to file an issue.
