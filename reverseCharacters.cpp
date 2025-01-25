@@ -48,7 +48,7 @@ bool reverseString(char* str)
 {
     size_t length = strlen(str); //Computes length of cstring
     
-    if (length != 1) //Returns false if empty cstring
+    if (length < 1) //Returns false if empty cstring
     {
         char* start = str;                 //Pointer as placeholder for char swapping
         char* end   = str + length - 1;    //Pointer to character preceding the null termination for char swapping
