@@ -2,6 +2,7 @@
 
 int findMaxNum(int* arr, size_t size);
 
+// TODO: add comments
 int main()
 {
     int arr[] = {1, 4, 2423, 412, 32415, 234, 4124, 32, 4};
