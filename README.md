@@ -9,7 +9,7 @@ ___
 
 1. [findMaxNumber.cpp](https://github.com/ajy207/cpp-practice/blob/main/pointer-manipulation-demo/findMaxNumber.cpp)
      - This program uses a function to compute the maximum value in an array of integers, 
-       then returns the maximum value to main(). Nothing special.
+       then returns the maximum value to main().
      - Last updated: 2025-01-25
 
 2. [reverseCharacaters.cpp](https://github.com/ajy207/cpp-practice/blob/main/pointer-manipulation-demo/reverseCharacters.cpp)
@@ -20,14 +20,16 @@ ___
 3. [main.cpp](https://github.com/ajy207/cpp-practice/blob/main/driver-class-demo/main.cpp)
      - Demonstrates the usage of the Driver class, showcasing object creation, getter and setter methods. 
        Uses the [Driver.h](https://github.com/ajy207/cpp-practice/blob/main/driver-class-demo/Driver.h) header.
+     - Last updated: 2025-01-26
 
    3a. [Driver.h](https://github.com/ajy207/cpp-practice/blob/main/driver-class-demo/Driver.h)
    - Header file for the Driver class. Contains class declaration, member variables, and function prototypes.
+   - Last updated: 2025-01-26
 
    3b. [Driver.cpp](https://github.com/ajy207/cpp-practice/blob/main/driver-class-demo/Driver.cpp)
    - Implementation file for the Driver class. Contains the definitions of constructor, getter, and setter methods
      declared in [Driver.h](https://github.com/ajy207/cpp-practice/blob/main/driver-class-demo/Driver.h).
-
+   - Last updated: 2025-01-26
 ___
 
 Thanks for tuning in! If you have any questions or 
