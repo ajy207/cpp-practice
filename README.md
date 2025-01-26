@@ -16,6 +16,18 @@ ___
      - This program uses a function to reverse the order of a passed cstring. Throws an error
        if the string cannot be reversed (i.e., empty cstring). Practicing error handling and more pointer stuff.
      - Last updated: 2025-01-25
+
+3. [main.cpp](https://github.com/ajy207/cpp-practice/blob/main/driver-class-demo/main.cpp)
+     - Demonstrates the usage of the Driver class, showcasing object creation, getter and setter methods. 
+       Uses the [Driver.h](https://github.com/ajy207/cpp-practice/blob/main/driver-class-demo/Driver.h) header.
+
+     i. [Driver.h](https://github.com/ajy207/cpp-practice/blob/main/driver-class-demo/Driver.h)
+          - Header file for the Driver class. Contains class declaration, member variables, and function prototypes.
+
+    ii. [Driver.cpp](https://github.com/ajy207/cpp-practice/blob/main/driver-class-demo/Driver.cpp)
+          - Implementation file for the Driver class. Contains the definitions of constructor, getter, and setter methods
+          declared in [Driver.h](https://github.com/ajy207/cpp-practice/blob/main/driver-class-demo/Driver.h).
+
 ___
 
 Thanks for tuning in! If you have any questions or 
