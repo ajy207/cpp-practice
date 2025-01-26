@@ -21,12 +21,12 @@ ___
      - Demonstrates the usage of the Driver class, showcasing object creation, getter and setter methods. 
        Uses the [Driver.h](https://github.com/ajy207/cpp-practice/blob/main/driver-class-demo/Driver.h) header.
 
-     i. [Driver.h](https://github.com/ajy207/cpp-practice/blob/main/driver-class-demo/Driver.h)
-          - Header file for the Driver class. Contains class declaration, member variables, and function prototypes.
+   3a. [Driver.h](https://github.com/ajy207/cpp-practice/blob/main/driver-class-demo/Driver.h)
+   - Header file for the Driver class. Contains class declaration, member variables, and function prototypes.
 
-    ii. [Driver.cpp](https://github.com/ajy207/cpp-practice/blob/main/driver-class-demo/Driver.cpp)
-          - Implementation file for the Driver class. Contains the definitions of constructor, getter, and setter methods
-          declared in [Driver.h](https://github.com/ajy207/cpp-practice/blob/main/driver-class-demo/Driver.h).
+   3b. [Driver.cpp](https://github.com/ajy207/cpp-practice/blob/main/driver-class-demo/Driver.cpp)
+   - Implementation file for the Driver class. Contains the definitions of constructor, getter, and setter methods
+     declared in [Driver.h](https://github.com/ajy207/cpp-practice/blob/main/driver-class-demo/Driver.h).
 
 ___
 
